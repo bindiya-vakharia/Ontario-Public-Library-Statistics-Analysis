@@ -4,9 +4,13 @@
 - [Data Source](#data-source)
 - [Data Preparation](#data-preparation)
 - [Project Overview](#project-overview)
-- [Build with](build-with)
-- [ERD Diagram](ERD-diagram)
-- [Objectives and Goals](objectives-and-goals)
+- [Build with](#build-with)
+- [ERD Diagram](#erd-diagram)
+- [Objectives and Goals](#objectives-and-goals)
+- [Queries](#queries)
+- [Create Views](#create-views)
+- [Conclusion](#conclusion)
+
 ### Data Source
 ---
 The data for this analysis is [Ontario-Public-Library-Statistics-Analysis_open_data1.csv](https://github.com/bindiya-vakharia/Ontario-Public-Library-Statistics-Analysis/blob/main/ontario_public_library_statistics_2022_open_data1.csv) containing Ontario Public Library Statistics 2022 from the Open Ontario website.
@@ -24,7 +28,7 @@ This SQL project is about a detailed library management analysis of the database
 - SQL Language
   - PostgreSQL
 
-- Tools
+- Tool
   - pgAdmin
 
 ### ERD Diagram
